@@ -1,5 +1,5 @@
-# Artigo-Métodos-Quantitativos-Aplicados
-Da# Regularidade do Corpo Docente nos Municípios Brasileiros
+Artigo-Métodos-Quantitativos-Aplicados
+# Regularidade do Corpo Docente nos Municípios Brasileiros
 
 Este repositório contém a base consolidada e os códigos utilizados nas análises do estudo sobre os determinantes da Regularidade do Corpo Docente nos municípios brasileiros.
 
